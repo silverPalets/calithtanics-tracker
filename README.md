@@ -1,5 +1,8 @@
-the logic of program is on user chose different types of push pull or squat and set a goal for day 
+# React + Vite
 
-there will be medals for it and user can get them by completing tasks.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-user will have weakly and daily report of exercise and can set goals for month and weak.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
