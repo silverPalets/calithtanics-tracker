@@ -4,6 +4,7 @@ import LvlStatus from "./LvlStatus.jsx";
 import Streak from "./Streak.jsx";
 import MovementCategory from "./MovementCategory.jsx";
 import AddButton from "./AddButton.jsx";
+import Workspace from "./Workspace.jsx";
 
 function App() {
   return (
@@ -22,7 +23,7 @@ function App() {
           </div>
         </div>
         <section>
-          
+          <Workspace />
         </section>
       </main>
     </Background>
